@@ -1,0 +1,28 @@
+{
+  "name": "next-tailwindcss-dashboard-starter",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint",
+    "format": "prettier --write \"**/*.{jsx,js,css,json,md}\""
+  },
+  "dependencies": {
+    "next": "12.0.3",
+    "react": "17.0.2",
+    "react-dom": "17.0.2"
+  },
+  "devDependencies": {
+    "@next/eslint-plugin-next": "^12.0.3",
+    "autoprefixer": "^10.4.0",
+    "eslint": "^7.32.0",
+    "eslint-config-next": "12.0.3",
+    "eslint-plugin-jsx-a11y": "^6.5.1",
+    "eslint-plugin-react": "^7.27.0",
+    "eslint-plugin-react-hooks": "^4.3.0",
+    "postcss": "^8.3.11",
+    "prettier": "^2.4.1",
+    "tailwindcss": "^2.2.19"
+  }
+}
