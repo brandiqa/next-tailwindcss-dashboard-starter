@@ -1,6 +1,9 @@
 {
   "name": "next-tailwindcss-dashboard-starter",
+  "description": "Starter TailwindCSS dashboard template built with Next.js",
   "private": true,
+  "license": "MIT",
+  "author": "Michael Wanyoike<https://github.com/brandiqa>",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
